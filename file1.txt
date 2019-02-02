@@ -1,2 +1,4 @@
 prvy subor
 uprava suboru
+uprava zo servera
+bcdfsfsf
